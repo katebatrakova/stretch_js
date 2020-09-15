@@ -1,0 +1,22 @@
+{
+  "name": "stretch_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NumberGuesser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katebatrakova/stretch_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katebatrakova/stretch_js/issues"
+  },
+  "homepage": "https://github.com/katebatrakova/stretch_js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.5"
+  }
+}
